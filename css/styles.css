@@ -1,0 +1,135 @@
+body{
+  text-align: center;
+  margin:0;
+  font-family: 'Merriweather', serif;
+  background-color: #f9f9f9;
+}
+.top{
+  background-color: #abf0e9;
+  padding-top: 100px;
+}
+.Prog{
+  color: #45b29a;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
+  margin-top: 4px;
+  font-weight: normal;
+}
+.intro{
+  width: 40%;
+  margin: auto auto 20px auto;
+}
+h1{
+  color: #45b29a;
+  margin: 0;
+  font-size: 4.5em;
+  font-family: 'Sacramento', cursive;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #545454;
+  line-height: 1.5;
+}
+h2, h3{
+  color: #45b29a;
+  font-family: 'Noto Sans', sans-serif;
+  padding-bottom: 5px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 20%;
+}
+.top-cloud{
+  position: relative;
+  left: 20%;
+  top: 35%;
+}
+.middle-container{
+  padding-top: 50px;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+  color: grey;
+}
+.code{
+  width: 30%;
+  float: left;
+  margin-right: 80px;
+}
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+.skill-para{
+  margin-top:0;
+}
+.skill-head{
+  padding-top: 20px;
+  margin-bottom: 6px;
+}
+.word{
+  float: right;
+  margin-left: 80px;
+  margin-top: 20px;
+}
+
+.helper{
+   font-size: 3.2em;
+   font-weight: 400;
+   font-family: 'Open Sans', sans-serif;
+}
+#freelance{
+  padding-top: 1em;
+  font-size: 1.5em;
+  line-height: 1.1;
+  font-weight: 500;
+}
+.bottom-para{
+  font-size: 0.8em;
+  font-weight: 300;
+}
+
+.btn{
+ display: inline-block;
+ border: none;
+ text-decoration: none;
+ color: #FFFF;
+ -webkit-border-radius: 8;
+ -moz-border-radius: 8;
+ border-radius: 8px;
+ font-family: 'Open Sans', sans-serif;
+ width: auto;
+ height: auto;
+ font-size: 20px;
+ padding: 10px 40px;
+ text-shadow: 0 1px 0 #ffff;
+ background-image: linear-gradient(to top, #45b29a, #1b7f69);
+ background-color: #FFFF;
+}
+.btn:hover, .btn:active{
+ border: none;
+ color: #FFFF;
+ background-color: #45b29a;
+}
+.Footer{
+  background-color: #abf0e9;
+  padding: 50px 0 20px;
+}
+a{
+  font-family: 'Merriweather', serif;
+  padding: 20px 20px;
+  text-decoration: none;
+  color: #45b29a;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  font-size: 0.8rem;
+  color: #EAF6F6;
+}
